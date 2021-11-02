@@ -3,7 +3,7 @@ A "exact" same melting screen payload made in pywin32.
 
 # Requirements:
  - pywin32
- - Python 3.8.10
+ - Python 3.8.10 or lastest.
 
 # FAQ
 > Q: Why i cannot install "pywin32"?
